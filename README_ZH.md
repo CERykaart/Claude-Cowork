@@ -12,11 +12,11 @@
 
 ## ❤️ 合作
 
-[![MiniMax](assets/partners/minimax_25cn.png)](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link)
+[![MiniMax](assets/partners/minimax-cn.png)](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link)
 
-MiniMax M2.5 在编程、工具调用与搜索、办公等核心生产力场景均达到或刷新行业 SOTA，拥有架构师级代码能力与高效任务拆解能力，推理速度较上一代提升 37%、token 消耗更优；100 token/s 连续工作一小时仅需 1 美金，让复杂 Agent 规模化部署经济可行，已在企业多职能场景深度落地，加速全民 Agent 时代到来。
+MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构建复杂 Agent Harness，并基于 Agent Teams、复杂 Skills、Tool Search Tool 等能力完成高复杂度生产力任务；其在软件工程、端到端项目交付及办公场景中表现优异，多项评测接近行业领先水平，同时具备稳定的复杂任务执行、环境交互能力以及良好的情商与身份保持能力。
 
-[点击](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link)即可享受 MiniMax 编程计划专属 12% 折扣
+[点击](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link) 此处享 MiniMax Token plan 专属 88 折优惠！
 
 
 ## 关于
